@@ -4,8 +4,7 @@
    ${3:// immediately invoked function expression}
 })(${1:jQuery, window});
 ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>iife</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.js</scope>
+   <description>Immediately Invoked Function Expression</description>
 </snippet>
