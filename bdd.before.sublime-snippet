@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+before(function() {
+	${1:// before each}
+})
+]]></content>
+	<tabTrigger>before</tabTrigger>
+	<scope>source.js</scope>
+	<description>BDD Before</description>
+</snippet>

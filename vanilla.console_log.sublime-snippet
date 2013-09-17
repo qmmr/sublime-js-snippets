@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-console.log(${2:'${1}'});
+console.log(${2:'${1:been there, done that!}'}${3:, ${4:obj}})
 ]]></content>
     <tabTrigger>cl</tabTrigger>
     <scope>source.js</scope>
