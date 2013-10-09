@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+console.error('%cMARCIN => ', 'background: #222; color: red'${2:, '${1:this}'}${3:, ${4:this}})
+]]></content>
+    <tabTrigger>ce</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.error</description>
+</snippet>
