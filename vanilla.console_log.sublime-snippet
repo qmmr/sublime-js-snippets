@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-console.log(${2:'${1:been there, done that!}'}${3:, ${4:obj}})
+console.log('%cMARCIN => ', 'background: #222; color: lime'${2:, '${1:this}'}${3:, ${4:this}})
 ]]></content>
     <tabTrigger>cl</tabTrigger>
     <scope>source.js</scope>
