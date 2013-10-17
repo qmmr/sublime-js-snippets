@@ -1,10 +1,10 @@
 <snippet>
-    <content><![CDATA[
-${1:name}: function(${2:arguments}) \{
-    ${4:// method's body}
-}${3:,}
+	<content><![CDATA[
+${1:name}: ${2:function(${3:arguments}) \{
+	${5:// method's body}
+\}${4:,}}
 ]]></content>
-    <tabTrigger>met</tabTrigger>
-    <scope>source.js</scope>
-    <description>Method of an object</description>
+	<tabTrigger>met</tabTrigger>
+	<scope>source.js</scope>
+	<description>Method of an object</description>
 </snippet>
