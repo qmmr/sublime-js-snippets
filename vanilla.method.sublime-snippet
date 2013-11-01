@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 ${1:name}: ${2:function(${3:arguments}) \{
-	${5:// method's body}
+	${5:// method's body}${0}
 \}${4:,}}
 ]]></content>
 	<tabTrigger>met</tabTrigger>
