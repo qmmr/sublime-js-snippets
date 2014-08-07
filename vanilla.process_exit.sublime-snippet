@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 process.exit()
 ]]></content>
-    <tabTrigger>pe</tabTrigger>
-    <scope>source.js</scope>
-    <description>process.exit</description>
+	<tabTrigger>pe</tabTrigger>
+	<scope>source.js</scope>
+	<description>process.exit</description>
 </snippet>

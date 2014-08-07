@@ -1,10 +1,10 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 (function($2) {
-    ${3:// immediately invoked function expression}
+	${3:// immediately invoked function expression}
 })($1);
 ]]></content>
-    <tabTrigger>iife</tabTrigger>
-    <scope>source.js</scope>
-    <description>Immediately Invoked Function Expression</description>
+	<tabTrigger>iife</tabTrigger>
+	<scope>source.js</scope>
+	<description>Immediately Invoked Function Expression</description>
 </snippet>

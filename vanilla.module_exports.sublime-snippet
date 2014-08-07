@@ -1,10 +1,10 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 module.exports = function(${1:args}) {
-    ${2:// body}
+	${2:// body}
 };
 ]]></content>
-    <tabTrigger>me</tabTrigger>
-    <scope>source.js</scope>
-    <description>module.exports</description>
+	<tabTrigger>me</tabTrigger>
+	<scope>source.js</scope>
+	<description>module.exports</description>
 </snippet>

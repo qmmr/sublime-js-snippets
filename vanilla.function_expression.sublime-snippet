@@ -1,10 +1,10 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 var ${1:name} = function(${2:argz}) {
-    ${3:// do your magic here!}
+	${3:// do your magic here!}
 };$0
 ]]></content>
-    <tabTrigger>fe</tabTrigger>
-    <scope>source.js</scope>
-    <description>Function expression</description>
+	<tabTrigger>fe</tabTrigger>
+	<scope>source.js</scope>
+	<description>Function expression</description>
 </snippet>
