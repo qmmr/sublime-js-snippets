@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 it('should ${1:description}', function(done) {
-	${2:// body...}${0}
+	${2:// body...}
 	done()
-})
+});
 ]]></content>
 	<tabTrigger>ita</tabTrigger>
 	<scope>source.js</scope>
