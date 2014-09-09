@@ -2,7 +2,6 @@
 	<content><![CDATA[
 it('should ${1:description}', function(${2:done}) {
 	${3:// body...}$0
-	${2:()}
 });
 ]]></content>
 	<tabTrigger>it</tabTrigger>
