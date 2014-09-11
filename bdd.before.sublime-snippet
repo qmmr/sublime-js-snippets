@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-before(function(${1:done}) {
+before(function (${1:done}) {
 	${2:// before describe/it}$0
 });
 ]]></content>
