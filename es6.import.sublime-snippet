@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import ${1:{ ${2:module} \}} from '${3:../../$4}';
+]]></content>
+	<tabTrigger>imp</tabTrigger>
+	<scope>source.js</scope>
+	<description>Function declaration</description>
+</snippet>
