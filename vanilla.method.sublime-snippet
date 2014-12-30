@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:name}: ${2:function(${3:arguments}) \{
-	${5:// method's body}${0}
-\}${4:,}}
+${1:name}: function ${2:$1} (${3:arguments}) \{
+	${4:return}$5
+}
 ]]></content>
 	<tabTrigger>met</tabTrigger>
 	<scope>source.js</scope>
