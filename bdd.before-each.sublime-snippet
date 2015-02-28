@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-beforeEach(function () {
-	${1:// before each describe/it}$0
-});
+beforeEach(function() {
+	${1:// before each describe/it}
+})
 ]]></content>
 	<tabTrigger>beforeEach</tabTrigger>
 	<scope>source.js</scope>

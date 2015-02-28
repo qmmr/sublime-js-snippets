@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-before(function (${1:done}) {
-	${2:// before describe/it}$0
-});
+before(function(${1:done}) {
+	$0
+})
 ]]></content>
 	<tabTrigger>before</tabTrigger>
 	<scope>source.js</scope>
