@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-expect(${1:testCase}).to.${2:be}.${3:or not to be}$0
+expect(${1:test}).to.${2:be}
 ]]></content>
 	<tabTrigger>exp</tabTrigger>
 	<scope>source.js</scope>

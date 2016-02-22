@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:arr}.${2:map}(${3:x} => ${4:x * x})$0
+]]></content>
+	<tabTrigger>afa</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES2015 arrow functions passed as argument to Array.prototype.method</description>
+</snippet>
