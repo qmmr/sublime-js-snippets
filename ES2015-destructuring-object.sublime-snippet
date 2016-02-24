@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const { $1 } = $2
+]]></content>
+	<tabTrigger>do</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES2015: Destructuring object</description>
+</snippet>
