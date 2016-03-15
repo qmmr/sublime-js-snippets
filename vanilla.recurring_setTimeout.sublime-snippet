@@ -1,11 +1,11 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 (function ${1:name}(${2:args}) {
-	${3:doStuff();}
-	setTimeout(${1}, ${4:10});
+    ${3:doStuff();}
+    setTimeout(${1}, ${4:10});
 })(${5:args});
 ]]></content>
-	<tabTrigger>st</tabTrigger>
-	<scope>source.js</scope>
-	<description>recurring setTimeout</description>
+    <tabTrigger>st</tabTrigger>
+    <scope>source.js</scope>
+    <description>recurring setTimeout</description>
 </snippet>

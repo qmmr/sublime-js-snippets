@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 expect(${1:obj}).to.${2:exist}
 ]]></content>
-	<tabTrigger>exp</tabTrigger>
-	<scope>source.js</scope>
-	<description>BDD Jasmine expect</description>
+    <tabTrigger>exp</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD Jasmine expect</description>
 </snippet>

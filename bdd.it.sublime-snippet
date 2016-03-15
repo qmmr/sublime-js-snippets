@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 it('should ${1:description}', function (${2:done}) {
-	${3:// body...}
+    ${3:// body...}
 });
 ]]></content>
-	<tabTrigger>it</tabTrigger>
-	<scope>source.js</scope>
-	<description>BDD it</description>
+    <tabTrigger>it</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD it</description>
 </snippet>

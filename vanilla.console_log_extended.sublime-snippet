@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 console.log('%cMARCIN :: $TM_FILENAME:$TM_LINE_NUMBER :: ${1:this}', 'background: #222; color: lime'${2:, ${3:${1:this}}}$4)
 ]]></content>
-	<tabTrigger>cle</tabTrigger>
-	<scope>source.js</scope>
-	<description>extended version of console.log</description>
+    <tabTrigger>cle</tabTrigger>
+    <scope>source.js</scope>
+    <description>extended version of console.log</description>
 </snippet>

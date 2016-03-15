@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 beforeEach(function () {
-	${1:// before each describe/it}
+    ${1:// before each describe/it}
 });
 ]]></content>
-	<tabTrigger>beforeEach</tabTrigger>
-	<scope>source.js</scope>
-	<description>BDD beforeEach</description>
+    <tabTrigger>beforeEach</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD beforeEach</description>
 </snippet>
