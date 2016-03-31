@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-expect(${1:obj}).to.${2:exist}
+expect(${1:obj}).to.${0:exist}
 ]]></content>
     <tabTrigger>exp</tabTrigger>
     <scope>source.js</scope>
